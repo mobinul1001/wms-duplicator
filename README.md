@@ -1,4 +1,5 @@
 === WMS Duplicator ===
+
 Contributors: Md. Mobinul Hoque
 Tags: duplicate post, clone page, elementor, post duplicator, duplicate
 Requires at least: 5.0
