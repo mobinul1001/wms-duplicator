@@ -1,11 +1,10 @@
 === WMS Duplicator ===
-
-Contributors: Md. Mobinul Hoque
+Contributors: mobinul1001
 Tags: duplicate post, clone page, elementor, post duplicator, duplicate
 Requires at least: 5.0
 Tested up to: 6.7
 Stable tag: 1.0.0
-License: GPLv2 or later
+License: GPLv3
 
 == Description ==
 
