@@ -1,0 +1,53 @@
+.wms-duplicator-wrap {
+    margin-top: 20px;
+}
+
+.wms-header-box {
+    background: #0A5133;
+    color: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.wms-header-box h1 {
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.wms-header-box p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.wms-box {
+    background: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 25px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.wms-box h2 {
+    margin-top: 0;
+    color: #0A5133;
+}
+
+.wms-box ul {
+    margin-left: 20px;
+}
+
+.wms-box li {
+    margin-bottom: 10px;
+}
+
+.wms-box a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.wms-box a:hover {
+    color: #0A5133;
+}
