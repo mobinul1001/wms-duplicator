@@ -14,7 +14,7 @@ WMS Duplicator is a lightweight and professional WordPress plugin that allows yo
 
 Whether you need a quick backup of your content or want to replicate layouts efficiently, this plugin provides a fast and reliable duplication workflow. It is designed to be developer-friendly and resource-efficient.
 
-Plugin support and maintenance are provided by [Website Maintenance Services](https://websitemaintenanceservices.org). For agencies looking for scalable solutions, we recommend [White Label Website Development](https://whitelabelwebsitedevelopment.com/) to streamline your production.
+Plugin support and maintenance are provided by [Website Maintenance Services](https://websitemaintenanceservices.org). For agencies looking for scalable solutions, I recommend [White Label Website Development](https://whitelabelwebsitedevelopment.com/) to streamline your production.
 
 == Features ==
 
