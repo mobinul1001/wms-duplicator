@@ -1,0 +1,2 @@
+<?php
+// Public display template
